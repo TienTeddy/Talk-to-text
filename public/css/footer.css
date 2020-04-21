@@ -1,0 +1,9 @@
+.footer{
+    float: inherit;
+    color: royalblue;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.5);
+    margin-top: 3%;
+    padding-left: 30px;
+    margin-bottom: 1%;
+    height: 10em;
+}
